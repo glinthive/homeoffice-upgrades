@@ -1,0 +1,143 @@
+ergonomic_chairs:
+  - name: "Model A Ergonomic Chair"
+    feature: "Adjustable lumbar support"
+    price: 120.00
+    commission: 6
+    link: "https://cjdropshipping.com/product-url?affiliate_id=YOUR_UID"
+  - name: "Model B Mesh Office Chair"
+    feature: "Breathable mesh back"
+    price: 95.00
+    commission: 5
+    link: "https://cjdropshipping.com/other-url?affiliate_id=YOUR_UID"
+monitor_stands:
+  - name: "Aluminum Dual Monitor Stand"
+    feature: "Height adjustable, tilt/swivel"
+    price: 45.00
+    commission: 7
+    link: "https://cjdropshipping.com/monitor-stand?affiliate_id=YOUR_UID"
+  - name: "Gas-Spring Monitor Arm"
+    feature: "Full-motion arm, cable management"
+    price: 60.00
+    commission: 8
+    link: "https://cjdropshipping.com/monitor-arm?affiliate_id=YOUR_UID"
+led_lamps:
+  - name: "RGB LED Desk Lamp"
+    feature: "10 brightness levels, touch control"
+    price: 30.00
+    commission: 5
+    link: "https://cjdropshipping.com/led-lamp?affiliate_id=YOUR_UID"
+  - name: "USB Rechargeable Desk Lamp"
+    feature: "Flicker-free, eye-care"
+    price: 25.00
+    commission: 5
+    link: "https://cjdropshipping.com/usb-lamp?affiliate_id=YOUR_UID"
+laptop_risers:
+  - name: "Wooden Laptop Stand"
+    feature: "Ergonomic angle, anti-slip"
+    price: 20.00
+    commission: 6
+    link: "https://cjdropshipping.com/laptop-stand?affiliate_id=YOUR_UID"
+  - name: "Adjustable Aluminum Riser"
+    feature: "Foldable, lightweight"
+    price: 22.00
+    commission: 6
+    link: "https://cjdropshipping.com/alum-riser?affiliate_id=YOUR_UID"
+footrests:
+  - name: "Ergonomic Footrest"
+    feature: "Non-slip surface, height adjustable"
+    price: 18.00
+    commission: 5
+    link: "https://cjdropshipping.com/footrest?affiliate_id=YOUR_UID"
+  - name: "Memory Foam Foot Pad"
+    feature: "Comfortable, anti-fatigue"
+    price: 15.00
+    commission: 5
+    link: "https://cjdropshipping.com/foam-pad?affiliate_id=YOUR_UID"
+cable_organizers:
+  - name: "Magnetic Cable Clips"
+    feature: "Holds cables on desk edge"
+    price: 8.00
+    commission: 4
+    link: "https://cjdropshipping.com/cable-clips?affiliate_id=YOUR_UID"
+  - name: "Under-Desk Cable Tray"
+    feature: "Mounts under desk for cables"
+    price: 12.00
+    commission: 5
+    link: "https://cjdropshipping.com/cable-tray?affiliate_id=YOUR_UID"
+keyboard_trays:
+  - name: "Under-Desk Keyboard Tray"
+    feature: "Slide-out, adjustable height"
+    price: 40.00
+    commission: 7
+    link: "https://cjdropshipping.com/keyboard-tray?affiliate_id=YOUR_UID"
+  - name: "Ergonomic Keyboard Platform"
+    feature: "Wrist rest, tiltable"
+    price: 35.00
+    commission: 6
+    link: "https://cjdropshipping.com/keyboard-platform?affiliate_id=YOUR_UID"
+desk_mats:
+  - name: "Large PU Leather Desk Mat"
+    feature: "Waterproof, non-slip"
+    price: 15.00
+    commission: 5
+    link: "https://cjdropshipping.com/desk-mat?affiliate_id=YOUR_UID"
+  - name: "Extended Gaming Desk Mat"
+    feature: "Extra-large, stitched edges"
+    price: 20.00
+    commission: 5
+    link: "https://cjdropshipping.com/gaming-mat?affiliate_id=YOUR_UID"
+ergonomic_mice:
+  - name: "Vertical Ergonomic Mouse"
+    feature: "Reduces wrist strain"
+    price: 35.00
+    commission: 6
+    link: "https://cjdropshipping.com/vertical-mouse?affiliate_id=YOUR_UID"
+  - name: "Trackball Mouse"
+    feature: "Stationary, precise control"
+    price: 30.00
+    commission: 6
+    link: "https://cjdropshipping.com/trackball?affiliate_id=YOUR_UID"
+phone_stands:
+  - name: "Adjustable Phone Holder"
+    feature: "Rotatable, foldable"
+    price: 10.00
+    commission: 5
+    link: "https://cjdropshipping.com/phone-stand?affiliate_id=YOUR_UID"
+  - name: "Wireless Charging Stand"
+    feature: "Qi-charging compatible"
+    price: 25.00
+    commission: 5
+    link: "https://cjdropshipping.com/wireless-stand?affiliate_id=YOUR_UID"
+monitor_lamps:
+  - name: "Clip-on Monitor Lamp"
+    feature: "Eye-care, adjustable brightness"
+    price: 28.00
+    commission: 5
+    link: "https://cjdropshipping.com/clip-lamp?affiliate_id=YOUR_UID"
+  - name: "Bias Lighting LED Strip"
+    feature: "Reduces eye strain"
+    price: 18.00
+    commission: 5
+    link: "https://cjdropshipping.com/led-strip?affiliate_id=YOUR_UID"
+headset_stands:
+  - name: "Wooden Headset Stand"
+    feature: "Stable, minimal design"
+    price: 12.00
+    commission: 4
+    link: "https://cjdropshipping.com/headset-stand?affiliate_id=YOUR_UID"
+  - name: "USB RGB Headset Hanger"
+    feature: "LED lighting, USB hub"
+    price: 20.00
+    commission: 5
+    link: "https://cjdropshipping.com/rgb-hanger?affiliate_id=YOUR_UID"
+storage_shelves:
+  - name: "Desktop Organizer Shelf"
+    feature: "Multi-tier storage"
+    price: 25.00
+    commission: 6
+    link: "https://cjdropshipping.com/organizer-shelf?affiliate_id=YOUR_UID"
+  - name: "Under-Desk Storage Drawer"
+    feature: "Slide-out drawer"
+    price: 22.00
+    commission: 6
+    link: "https://cjdropshipping.com/storage-drawer?affiliate_id=YOUR_UID"

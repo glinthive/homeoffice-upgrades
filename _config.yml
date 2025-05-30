@@ -1,0 +1,10 @@
+title: "Home Office Upgrades"
+author: "Your Name"
+baseurl: "/homeoffice-upgrades"
+url: "https://<your-username>.github.io"
+description: "Discover the best home office upgrades with prices in your currency"
+markdown: kramdown
+permalink: pretty
+collections:
+  blog:
+    output: true
